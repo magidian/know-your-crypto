@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/know-your-crypto/static/css/main.1d2377ed.css",
-    "main.js": "/know-your-crypto/static/js/main.a497222b.js",
+    "main.js": "/know-your-crypto/static/js/main.b687d098.js",
     "static/media/crypto.jpeg": "/know-your-crypto/static/media/crypto.43a4cc21ffe6c574d64c.jpeg",
     "index.html": "/know-your-crypto/index.html",
     "main.1d2377ed.css.map": "/know-your-crypto/static/css/main.1d2377ed.css.map",
-    "main.a497222b.js.map": "/know-your-crypto/static/js/main.a497222b.js.map"
+    "main.b687d098.js.map": "/know-your-crypto/static/js/main.b687d098.js.map"
   },
   "entrypoints": [
     "static/css/main.1d2377ed.css",
-    "static/js/main.a497222b.js"
+    "static/js/main.b687d098.js"
   ]
 }
